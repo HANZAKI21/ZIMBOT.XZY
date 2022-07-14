@@ -1,6 +1,6 @@
 
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮ZIM BOT INC 2022 ®️ALL RIGHTS RESERVED
+//▮022 ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
@@ -8,8 +8,8 @@
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
 //▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
+//▮WHATSAPP US :
+//▮YOUTUBE CHANNELL: https://youtube.com/c/
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
@@ -55,13 +55,13 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
-global.author = 'ZIM BOT INC'
+global.author = 'tuturuuu'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: '*success baby*',
+    success: '*success banke*',
         ban: '*Sorry, looks like u got banned😔😔 type .owner To request unban okay*',
     admin: '*this cmd is for bot owner only , l can feel you but sorry okay*',
     botAdmin: '*with due respect can you please give bot adminship*',
